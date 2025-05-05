@@ -5,6 +5,6 @@ Our project's overarching goal is to develop a sophisticated Intrusion Detection
 
 ## Installation
 # Pre-requisites
-Node.js
-Python (3.11.5)
-Pipemv
+1. Node.js
+2. Python (3.11.5)
+3. Pipemv
