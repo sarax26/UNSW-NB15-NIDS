@@ -13,3 +13,21 @@ https://www.researchgate.net/publication/304847859_The_evaluation_of_Network_Ano
 2. Python (3.11.5)
 3. Pipemv
 
+# Install the dependencies using the command:
+
+pip3 install pipenv
+npcap
+
+# Clone the project using the command:
+
+git clone https://github.com/gokudaisensei/nids-realtime.git
+cd nids-realtime
+# Install the dependencies using the command:
+
+pipenv install
+The first time you're running the project, run the below:
+
+pipenv run python app.py
+# After that the project can be run using the command:
+
+pipenv run flask run
