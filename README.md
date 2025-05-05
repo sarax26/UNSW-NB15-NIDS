@@ -21,7 +21,7 @@ npcap
 ## Clone the project using the command:
 
 git clone https://github.com/sarax26/UNSW-NB15-NIDS.git
-cd nids-realtime
+cd USNW-NB15-NIDS
 ## Install the dependencies using the command:
 
 pipenv install
