@@ -20,7 +20,7 @@ npcap
 
 # Clone the project using the command:
 
-git clone https://github.com/gokudaisensei/nids-realtime.git
+git clone https://github.com/sarax26/UNSW-NB15-NIDS.git
 cd nids-realtime
 # Install the dependencies using the command:
 
