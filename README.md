@@ -25,7 +25,7 @@ cd USNW-NB15-NIDS
 ## Install the dependencies using the command:
 
 pipenv install
-## The first time you're running the project, run the below:
+## The first time you're running the project, run this command:
 
 pipenv run python app.py
 ## After that the project can be run using the command:
